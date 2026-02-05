@@ -1,3 +1,5 @@
+```
+
 # Practice2 - Python Basics
 
 This repository contains Python practice exercises for **Boolean values**, **if/else statements**, and **loops**.
@@ -22,3 +24,4 @@ Practice2/
 │ ├── for_break.py # For loops with break
 │ └── for_continue.py # For loops with continue
 └── README.md # Project description
+```
